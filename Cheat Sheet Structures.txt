@@ -1,8 +1,3 @@
-
-
-Análisis Estructural
-----
-
 # Principios
 
 	- Equilibrio de fuerzas y momentos (Sumas de fuerza)
