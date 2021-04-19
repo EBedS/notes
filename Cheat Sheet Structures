@@ -1,0 +1,39 @@
+
+
+Análisis Estructural
+----
+
+# Principios
+
+	- Equilibrio de fuerzas y momentos (Sumas de fuerza)
+	- Hipótesis de Bernoulli (Compatibilidad de deformaciones)
+	- Leyes constitutivas (Definición de materiales)
+
+# Navier Stokes 
+	
+	Para secciones rectangulares uniformes:
+	- f = M/W (tensión desarrollada por flexión)
+	- W = I/yt = bh²/6 (I: módulo de inercia, yt: distancia fibra más traccionada)
+	- I = 1/12*bh³ (Sección rectangular)
+
+
+Hormigón Armado
+----
+
+# Material
+
+	- Módulo de young: 4700*sqr(fc) MPa ~ 25 MPa ~ 2500 tonf/m²
+	- Tensión de agrietamiento tracción: fr = 0.62*sqrt(fc) MPa ~ 3 MPa ~ 300 tonf/m²
+	- Peso específico: 2.5 tonf/m³
+
+
+Acero Estructural
+----
+
+	- 
+
+
+Madera Estructural
+----
+
+	- Tensión resistente ~ 5 MPa ~ 50 kgf/cm2

@@ -1,0 +1,53 @@
+Casa de campo
+----
+
+# Resumen de cálculo
+
+	- Reacciones cercha de techo:
+		- Superiores 2 x 340 kgf
+		- Inferiores 4 x 200 kgf
+
+
+# Alcance
+	- Incertidumbre en la condición del esqueleto de la estructura.
+	- Planimetrías corresponden a un plan ideal de solución.
+	- Mantienen flexibilidad en caso de tener que ajustar detalles en el camino.
+	- Si estructura real no se corresponden con la estructura ideada en los planos, informar para ajustar en caso de ser necesario.
+
+# Soluciones alternativas
+	- Conectores puede ser de cualquier tipo. Los indicados son los mínimos.
+
+# Ejecución de la obra
+	1- Colocar diagonales
+	2- Ejecutar sandwich
+	3- Retirar tramos sin dañar estructura
+	4- Largos de perfiles según obra, pero empalmes fuera conexiones.
+
+
+Puente vehicular
+---- 
+
+# Alcance
+	- Detalle de perfiles a utilizar.
+	- Detalle de losa.
+	- Detalle mínimo para fundación en extremos.
+	- Flexbilidad por incertidumbre de dimensiones reales del terreno.
+
+
+Cobro
+----
+
+# Alcance
+	- Cálculo
+	- Planimetrías
+	- Supervisión durante la ejecución (Alguna visita?)
+
+# Casa de campo
+	- 0.1UF x m2 = 0.1UF x 13m x 9m = 117 x 0.1UF = 11.7UF ~340.000 CLP
+
+# Puente
+	- 0.05UF x m2 = 0.1UF x 36m2 = 3.6UF ~50.000 CLP
+
+# Total
+	- ~390.000 CLP
+
